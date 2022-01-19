@@ -1,1 +1,9 @@
-j	Track Name	Application Name	Wave	KT_Started	RAG Status	Doc Type	Name of the Document (Process Manual/ Knowledge document/ Daily diary)	Playback Score	Feedback Received 	Author/Owner Name	Document  %age Completion	HCL Reviewer 	HCL review planned date	HCL review actual date	Submitted for review (Yes/No)	Submission date	Client SME Name	Planned signoff date	Actual signoff date	Status	Remarks
+Business Area	Applications	Active / Dormant / Decommission	Active_Status	AppType	Technology group	Tech Group 2	Tech Group 3	"Core Purpose of Application
+(Business Functionality)"	"COTS/Custom
+(Application Type)"	"COTS/Custom
+(Application Type)"	"Business Priority
+(Criticality)
+High | Medium |Low"	"Application Complexity
+High | Medium |Low"	"Application Availability
+ (24*7, 9*5 etc)"	"Application Availability
+ (24*7, 9*5 etc)"	Business SME Subject Matter Expert (Name)	Technology SME Subject Matter Expert (Name)	Technology SME Subject Matter Expert (Core Skill)	Level of Documentation (High, Medium, Low)	HCL Level of Documentation (High, Medium, Low)	Technology	Operating System	Database	Architecture	Remarks

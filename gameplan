@@ -1,0 +1,55 @@
+
+	KT Session Overview
+
+	Overview of Application
+
+	Functional Architecture
+
+	Technical Architecture
+
+	Support Process Overview
+
+	Application Customization
+
+	Interfaces
+
+	Incidence Statistics and Analysis
+
+	Tools and Technologies
+
+	Business User/Stakeholders
+
+	Challenges and Issues
+
+
+Overview of <<Application Name>>
+
+Brief information of application
+Purpose of application. Its relevance in the IT landscape
+Functionality of application. 
+Business process supported by the application. 
+
+
+Functional Architecture
+
+<<Insert functional architecture diagram depicting various business functions interacting with the application. Following is a sample.>>
+
+
+
+
+
+Technical Architecture
+Support Process Overview
+
+Define day to day processes/ activity required for production support ( High Level)
+Hours of Support Coverage
+Weekdays/Weekends support required
+Rotation policy, if any
+
+System Availability
+Define the SLA proposed for the application
+(Note: Describing the SLAs in a tabular  form is recommended)
+
+
+
+
